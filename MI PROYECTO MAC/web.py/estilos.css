@@ -1,0 +1,38 @@
+css
+body {
+    font-family: Arial;
+    background-color: #f0fff6;
+    text-align: center;
+}
+
+h1 {
+    color: #5e33d6;
+}
+
+h2 {
+    color: #8e44ad;
+}
+
+nav {
+    background-color: #6c33d6;
+    padding: 15px;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 15px;
+}
+
+.flor {
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    margin: 15px auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.flor h3 {
+    color: #e84393;
+}
+```
